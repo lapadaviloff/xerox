@@ -1,0 +1,10 @@
+F:\project\c#\xerox\xerox\bin\Debug\xerox.exe.config
+F:\project\c#\xerox\xerox\bin\Debug\xerox.exe
+F:\project\c#\xerox\xerox\bin\Debug\xerox.pdb
+F:\project\c#\xerox\xerox\obj\Debug\xerox.csprojAssemblyReference.cache
+F:\project\c#\xerox\xerox\obj\Debug\xerox.Form1.resources
+F:\project\c#\xerox\xerox\obj\Debug\xerox.Properties.Resources.resources
+F:\project\c#\xerox\xerox\obj\Debug\xerox.csproj.GenerateResource.cache
+F:\project\c#\xerox\xerox\obj\Debug\xerox.csproj.CoreCompileInputs.cache
+F:\project\c#\xerox\xerox\obj\Debug\xerox.exe
+F:\project\c#\xerox\xerox\obj\Debug\xerox.pdb
